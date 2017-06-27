@@ -16,3 +16,4 @@ http://archive.fabacademy.org/archives/2017/fablabkitakagaya/students/210/final_
 - island(pod)'s 3d design file
 - cap's 3d design file
 - heater's mould 3d design file
+- ring's 3d design file
